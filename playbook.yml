@@ -38,7 +38,8 @@
           - mackup
           - node
           - rbenv
-          - ruby
+          - ruby-build
+          #- ruby
           - redis
           - mongodb
           - brew-cask
