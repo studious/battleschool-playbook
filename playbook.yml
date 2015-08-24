@@ -42,6 +42,7 @@
           #- ruby
           - redis
           - mongodb
+          - selecta
           #- brew-cask
 
 
