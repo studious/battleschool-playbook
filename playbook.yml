@@ -68,7 +68,9 @@
       gem: name={{item}} state=latest
       with_items:
           - lunchy
-          - getsmart
+          - git-smart
+          - consular
+          - consular-osx
 #          - brewbygems
 #          - bundler
 #          - compass
